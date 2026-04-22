@@ -2,18 +2,18 @@
 
 A full-stack machine learning application for predicting student dropout risk in low-resource educational settings in India.
 
-## 🎯 Overview
+## Overview
 
 EduPredict helps schools and NGOs identify at-risk students early, enabling targeted interventions to reduce India's 12-15% secondary school dropout rate.
 
-## ✨ Features
+##  Features
 
-- 🤖 **ML-powered predictions** using Random Forest classifier
-- 📊 **Risk categorization** (Low, Medium, High)
-- 💾 **Prediction history** with SQLite database
-- 📈 **Statistics dashboard** with real-time metrics
-- 📥 **CSV export** for data analysis
-- 🎨 **Beautiful UI** built with React
+- **ML-powered predictions** using Random Forest classifier
+- **Risk categorization** (Low, Medium, High)
+- **Prediction history** with SQLite database
+- **Statistics dashboard** with real-time metrics
+- **CSV export** for data analysis
+- **Beautiful UI** built with React
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ EduPredict helps schools and NGOs identify at-risk students early, enabling targ
 - Axios
 - CSS3
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -58,7 +58,7 @@ npm start
 
 Frontend runs on: `http://localhost:3000`
 
-## 📊 API Endpoints
+## API Endpoints
 
 - `POST /predict` - Get dropout risk prediction
 - `GET /history` - View prediction history
@@ -67,7 +67,7 @@ Frontend runs on: `http://localhost:3000`
 
 Full API docs: `http://localhost:8000/docs`
 
-## 🎓 Use Case
+## Use Case
 
 Designed for schools and NGOs working in low-resource areas to:
 - Identify students at risk of dropping out
