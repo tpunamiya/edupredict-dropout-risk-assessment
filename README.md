@@ -13,9 +13,9 @@ EduPredict helps schools and NGOs identify at-risk students early, enabling targ
 - **Prediction history** with SQLite database
 - **Statistics dashboard** with real-time metrics
 - **CSV export** for data analysis
-- **Beautiful UI** built with React
+- **UI** built with React
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:**
 - Python 3.x
